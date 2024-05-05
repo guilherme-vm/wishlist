@@ -1,0 +1,71 @@
+[
+    {
+        "imageURL": "img/ultimateGuide.jpg",
+        "name": "The Ultimate Guide to Rebuilding a Civilization",
+        "link": "https://howtorebuildcivilization.com/products/the-book?variant=43738853081380",
+        "price": "109",
+        "category":"books"
+    },
+    {
+        "imageURL": "img/seanik.jpg",
+        "name": "Seanik: SHAMPOO BAR",
+        "link": "https://www.lush.com/uk/en/p/seanik-shampoo-bar-2021",
+        "price": "12",
+        "category":"selfcare"
+    },
+    {
+        "imageURL": "img/honeyHair.jpg",
+        "name": "Honey I Washed My Hair: SHAMPOO BAR",
+        "link": "https://www.lush.com/pt/en/p/honey-i-washed-my-hair-shampoo-bar-2021",
+        "price": "12",
+        "category":"selfcare"
+    },
+    {
+        "imageURL": "img/canon2470.jpg",
+        "name": "Objetiva Canon EF 24-70mm f/2.8L II USM",
+        "link": "https://store.canon.pt/canon-objetiva-canon-ef-24-70mm-f-2-8l-ii-usm/5175B005/",
+        "price": "2.159,99",
+        "category":"eletronics"
+    }
+    ,
+    {
+        "imageURL": "img/canonr8.jpg",
+        "name": "Canon EOS R8: Camera body",
+        "link": "https://store.canon.pt/canon-corpo-da-camara-mirrorless-canon-eos-r8/5803C017/",
+        "price": "1.599,99",
+        "category":"eletronics"
+    },
+    {
+        "imageURL": "img/wingspan.jpg",
+        "name": "Wingspan",
+        "link": "https://www.worten.pt/produtos/jogo-de-tabuleiro-divercentro-wingspan-idade-minima-10-anos-dificuldade-intermedia-7055496?gad_source=1&gclid=CjwKCAjw3NyxBhBmEiwAyofDYXCqvl-QcLDMLICCSQT0xMT0vdPR3W8Zd6GLwR7liWUTujzvQpkFMBoCWRgQAvD_BwE",
+        "price": "47,98",
+        "category":"games"
+    },{
+        "imageURL": "img/dungeon.jpg",
+        "name": "DUNGEON + Pencil Dice",
+        "link": "https://gladdendesign.com/products/paper-apps-dungeon",
+        "price": "11,71",
+        "category":"games"
+    }
+    ,{
+        "imageURL": "img/alice.jpg",
+        "name": "Alice is Missing",
+        "link": "https://renegadegamestudios.com/alice-is-missing-pre-order/",
+        "price": "21",
+        "category":"games"
+    }
+    ,{
+        "imageURL": "img/telescope.jpg",
+        "name": "tbd",
+        "link": "",
+        "price": "tbd",
+        "category":"space"
+    },{
+        "imageURL": "img/empty.jpg",
+        "name": "empty",
+        "link": "empty",
+        "price": "empty",
+        "category":"empty"
+    }
+]
