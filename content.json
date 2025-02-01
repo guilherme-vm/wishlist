@@ -25,7 +25,7 @@
         "name": "Objetiva Canon EF 24-70mm f/2.8L II USM",
         "link": "https://store.canon.pt/canon-objetiva-canon-ef-24-70mm-f-2-8l-ii-usm/5175B005/",
         "price": "2.159,99",
-        "category":"eletronics"
+        "category":"tech"
     }
     ,
     {
@@ -33,7 +33,7 @@
         "name": "Canon EOS R8: Camera body",
         "link": "https://store.canon.pt/canon-corpo-da-camara-mirrorless-canon-eos-r8/5803C017/",
         "price": "1.599,99",
-        "category":"eletronics"
+        "category":"tech"
     },
     {
         "imageURL": "img/wingspan.jpg",
@@ -49,11 +49,11 @@
         "category":"games"
     }
     ,{
-        "imageURL": "img/alice.jpg",
-        "name": "Alice is Missing",
-        "link": "https://renegadegamestudios.com/alice-is-missing-pre-order/",
-        "price": "21",
-        "category":"games"
+        "imageURL": "img/rode.jpg",
+        "name": "RØDE Rode NT1-A",
+        "link": "https://www.amazon.es/-/pt/dp/B002QAUOKS/ref=sr_1_3?crid=3U32Q937EMHSB&dib=eyJ2IjoiMSJ9.AVKibzjD06rcLC1ZWjXjElcIOlGTEVSD7STL6WCWFpMUPn0Zl-SzSdm-iKCcFPneGreAjYVnuJ9N6kvakbWONCusGz2KIU52lK3NUMSkP7G8gdbdyuloxa1Izm12nj8LzzmPV6Hj8TDknWUseT9raLEV2lgkxq_haJP7Uoz7_4OcdqSOZW0vlYpSHQpbIADdbhk6bTVo_g4LniuvvjspQcK9aGnX29_HKk5K2YWdVvxqCE1JB0N75Ms-ppUw85mM9KbqLqk16AsL0g4Ka0J2Y4Sdync4NXWOioJlI4XEEGHV7pBwaqLOeUQuEQcZYPnQ2GcT11JwTdVt8OiaB0fmU05z29_5ZlWWfIzTVEaoDEXVQ5ounj0SKHXAOircdxgk4BLci6rPImFbuU4fQd3OtWTAALepLlJ9s1AsbDInn-UB1XUex2k40V2C03V5MbBw.TYyq0mvTYq_62Z0fLcfpU7BG3etpGEFNnTRTz4Cxgkg&dib_tag=se&keywords=rode+nt1a&qid=1738366202&sprefix=rode+nt1a%2Caps%2C109&sr=8-3",
+        "price": "319",
+        "category":"tech"
     }
     ,{
         "imageURL": "img/telescope.jpg",
@@ -61,6 +61,18 @@
         "link": "",
         "price": "tbd",
         "category":"space"
+    },{
+        "imageURL": "img/mtrack.jpg",
+        "name": "M-Audio M-Track Solo Audio Interface",
+        "link": "https://www.amazon.es/-/pt/dp/B08Q1NJSBQ/ref=sr_1_6?crid=1JVHGK4K2UMMX&dib=eyJ2IjoiMSJ9.6Y1Ww_EaGbvLhYOm979RaL2RJ3RLFtS87KalLvnSLj-kAEU3ELD2tTIzCZZKoqYrPxnQxJ8Iqw53jf1IedQHT5xgjQYvLDQNTCAMzJnz_eXnFXxsaz4tKuf8T4zU0kyNScFLCDm09mCUwJ3AWHIa7Cai6IMDGM26xlEpMuXx2qAvLu3GGyHkqrJz55xK4DF97RR-5trhwMTy8nFoAfo0jFQ_Kx_N0fHcUGl5FhHNT90L1T-y8HbtXuZMrkapwmbbyZalcad7tVYux-JUlI7PBQuoi7-5iIatz5tkrcxArXLNVWM1L2mDcNNw_KTtn6FYQQ28-HM8KX_T0ZH9TEYq1bawmGar3rQTrwBQh0_DQTRjy8PFQUNcUyrDPXGbx64gwEqPbQZtB7_sYX1Z0yMvc80AbIrvV6Dpuyt1a4mmGqrmrYtGiaZ0_5Km9pNvmcly.Kw01n-VajDJMElTgpHQreHZZ5co7VY0Si1VI8QG07aw&dib_tag=se&keywords=USB%2BAudio%2BInterface&qid=1738367284&sprefix=usb%2Baudio%2Binterface%2Caps%2C110&sr=8-6&th=1",
+        "price": "50",
+        "category":"tech"
+    },{
+        "imageURL": "img/tripeMic.jpg",
+        "name": "Microphone Stand",
+        "link": "https://www.amazon.es/dp/B0BRN68FXC/ref=sr_1_2_sspa?crid=2I82EV08F6M2S&dib=eyJ2IjoiMSJ9._5sVMw21WjLT-SO7GUdi7qD1lspMfUtnVKnZo9e9hPIzr-bkf8c1XyCUM-x6oNwRjN5AZrA3oap8m-9c3F4jiYJRes__ryn5UOP652T6PzTeU7sxY_s0T-vjbZR_RRyvr_lgv2NuDhH5d3QBPEPlr7aS3ruJRG43uWE8V-5G_ef1yKYf5039_2ukA6tQ9mKTMJ8IbnrFJpgTDrwKo0J6_j4v6XNwEP9Y_jeDl5Xy6QWAEpqE8piXH_Ce67wileNScieK48CR_yR0edU59vkAixdtAdpiLLhvh37PWdiinaU.AtLmw9cc0ECKB61QK3vmhdP4FG9PEORurkLUKR0494E&dib_tag=se&keywords=microphone%2Bstand&qid=1738367589&sprefix=microphone%2Bstand%2Caps%2C119&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+        "price": "32",
+        "category":"tech"
     },{
         "imageURL": "img/empty.jpg",
         "name": "empty",
