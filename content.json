@@ -74,6 +74,12 @@
         "price": "32",
         "category":"tech"
     },{
+        "imageURL": "img/design.jpg",
+        "name": "Universal Methods of Design",
+        "link": "https://www.fnac.pt/Universal-Methods-of-Design-Bella-Martin/a930641?origin=fnac_pla_fl_livros",
+        "price": "35,75",
+        "category":"books"
+    },{
         "imageURL": "img/empty.jpg",
         "name": "empty",
         "link": "empty",
