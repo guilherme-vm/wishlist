@@ -196,8 +196,12 @@ a:hover {
 @media screen and (max-width: 900px) and (min-width: 600px)  {
 
     p {
-            -webkit-text-stroke-width: 5px;
-    font-size: 22px;
+        -webkit-text-stroke-width: 5px;
+        font-size: 22px;
+        max-width: 160px;
+        background-color: red;
+        line-height: 25px;
+        margin-bottom: 10px;
     }
     
     h1{
@@ -221,9 +225,13 @@ a:hover {
 @media screen and (max-width: 599px) {
 
 
-      p {
-            -webkit-text-stroke-width: 5px;
-    font-size: 22px;
+         p {
+        -webkit-text-stroke-width: 5px;
+        font-size: 22px;
+        max-width: 160px;
+        background-color: red;
+        line-height: 25px;
+        margin-bottom: 10px;
     }
     
        h1 {
