@@ -62,6 +62,36 @@
         "price": "35,75",
         "category":"books"
     },{
+        "imageURL": "img/cctv.jpg",
+        "name": "Security Camera",
+        "link": "https://www.amazon.es/-/en/gp/product/B07XLML2YS/ref=ox_sc_act_title_2?smid=A1AT7YVPFBWXBL&psc=1",
+        "price": "23",
+        "category":"tech"
+    },{
+        "imageURL": "img/mangoShampo.jpg",
+        "name": "Manego Fresh Shampoo Bar",
+        "link": "https://www.hellomutt.com/product-page/manego-fresh-shampoo-bar",
+        "price": "15 + shipping",
+        "category":"selfcare"
+    },{
+        "imageURL": "img/airFilter.jpg",
+        "name": "Air Purifier Filter",
+        "link": "https://www.amazon.es/-/en/gp/product/B09FK5PN4H/ref=ox_sc_act_title_1?smid=A1AT7YVPFBWXBL&th=1",
+        "price": "17",
+        "category":"tech"
+    },{
+        "imageURL": "img/npg.jpg",
+        "name": "New Page Design",
+        "link": "https://draw-down.com/products/new-page-design-layout-and-editorial-design",
+        "price": "45",
+        "category":"books"
+    },{
+        "imageURL": "img/empty.jpg",
+        "name": "empty",
+        "link": "empty",
+        "price": "empty",
+        "category":"empty"
+    },{
         "imageURL": "img/empty.jpg",
         "name": "empty",
         "link": "empty",
