@@ -80,17 +80,11 @@
         "price": "17",
         "category":"tech"
     },{
-        "imageURL": "img/npg.jpg",
+        "imageURL": "img/npd.jpg",
         "name": "New Page Design",
         "link": "https://draw-down.com/products/new-page-design-layout-and-editorial-design",
         "price": "130",
         "category":"books"
-    },{
-        "imageURL": "img/empty.jpg",
-        "name": "empty",
-        "link": "empty",
-        "price": "empty",
-        "category":"empty"
     },{
         "imageURL": "img/empty.jpg",
         "name": "empty",
