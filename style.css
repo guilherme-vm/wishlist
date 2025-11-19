@@ -238,7 +238,8 @@ a:hover {
     }
     
     .wishContainer{
-            margin-top: 150px;}
+            margin-top: 150px;
+            column-count: 1;}
     
     .wishProduct{
         margin: 10px;
