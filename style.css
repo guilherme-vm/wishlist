@@ -220,4 +220,27 @@ a:hover {
 
 @media screen and (max-width: 599px) {
 
+
+      p {
+            -webkit-text-stroke-width: 5px;
+    font-size: 22px;
+    }
+    
+    h1{
+            font-size: 30px;}
+    
+    .wishContainer{
+            margin-top: 150px;}
+    
+    .wishProduct{
+        margin: 10px;
+    }
+
+    button {
+    border: 2px solid #AC3806;
+    font-size: 14px;
+    margin: 5px;
+}
+
+    
 }
