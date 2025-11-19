@@ -195,6 +195,10 @@ a:hover {
 
 @media screen and (max-width: 900px) and (min-width: 600px)  {
 
+    p {
+            -webkit-text-stroke-width: 5px;
+    font-size: 22px;
+    }
     
     h1{
             font-size: 30px;}
