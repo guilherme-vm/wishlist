@@ -237,9 +237,9 @@ a:hover {
     }
 
     button {
-    border: 2px solid #AC3806;
     font-size: 14px;
-    margin: 5px;
+        margin: 5px;
+        padding: 2px 15px 6px;
 }
 
     
