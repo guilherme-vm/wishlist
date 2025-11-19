@@ -195,6 +195,10 @@ a:hover {
 
 @media screen and (max-width: 818px) and (min-width: 600px)  {
 
+    body {
+background-color:red;
+    }
+    
     h1{
             font-size: 30px;}
     
