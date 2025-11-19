@@ -1,4 +1,7 @@
 $(document).ready(function () {
+
+    $('[data-category="all"]').addClass('selected');
+
     $.getJSON("content.json", function (wishlist) {
         const container = $(".wishContainer");
         const categoryButtonsContainer = $("#categoryButtons");
