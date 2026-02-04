@@ -252,7 +252,7 @@ a:hover {
         border: 2px solid #AC3806;
 }
 
-     .categoryButtons{
+     #categoryButtons{
             display: flex;
     overflow-x: scroll;
     padding-left: 20px;
