@@ -71,10 +71,100 @@
         "price": "130",
         "category":"books"
     },{
+        "imageURL": "img/radioSolar.jpg",
+        "name": "Radio Solar",
+        "link": "https://www.leroymerlin.pt/produtos/radio-solar-am-fm-portatil-com-bateria-recarregavel-de-4000mah-lanterna-led-verde-94964291.html#component-displaycomp",
+        "price": "75",
+        "category":"Emergency Kit"
+    },{
+        "imageURL": "img/colete.jpg",
+        "name": "Colete Refletor",
+        "link": "https://www.leroymerlin.pt/produtos/colete-de-alta-visibilidade-amarelo-tamanho-unico-dexter-82375896.html?nbOfStars=1&goToReviewModule=true#component-displaycomp",
+        "price": "3",
+        "category":"Emergency Kit"
+    },{
+        "imageURL": "img/filtroAgua.jpg",
+        "name": "Filtro Água - 6",
+        "link": "https://www.amazon.es/dp/B07SYYQZDN?dib=eyJ2IjoiMSJ9.myoLa3LQY68dYp2-Y9lYKJ7zf0Jj0JQebX--zmdKbOCEETtU8_0c_OJKorCEKBcQ885rQ4vRwLX08Od-z3IwRy-oVQA4TkC5ZkhHwmNV-Eks6UYqhmj88pNQyiZWXZsiFhnkwJYLd9wk34AYXCOe8IFH-4MamLCcl037aw4i5ZQtclaFIWCXxECCPavOrzIOUo-UgfVk0MpeHZAY1vJ-of_4mnddFC-FHMjGGEbcbQ7mUVVbSGlQ0X3JQfrdWQSq7jRv3FLwDszae7gtfV1CrxvvBiMEn-3gCxbFAaGuwks.sHXSyLcWLy5CFW18Aaub6Jo_DTBX8w3pnVswbIIE0T0&dib_tag=se&keywords=filtro%2Bagua%2Bemerg%C3%AAncia&qid=1769874057&sr=8-1-spons&aref=LYqkFiNHSO&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=paulosousa-21&linkId=d55c5511506e3adb32394d0953f09054&ref_=as_li_ss_tl",
+        "price": "53",
+        "category":"Emergency Kit"
+    },{
+        "imageURL": "img/luzSolar.jpg",
+        "name": "2 Luz Solar/Manivela",
+        "link": "https://www.amazon.es/-/en/Simpeak-Emergency-Flashlight-Survival-Outdoor/dp/B08Q7QL2DD/ref=sr_1_2?crid=2KUYE57HK4I2B&dib=eyJ2IjoiMSJ9.tN4SiK8KQScLYztpVrykaYKIrMRwAaa5vovc76cCH9UYFdlnXzzW5fpsBGPqdUZsEJAHA5CWr9QBd29rcSEj_PGcqQ5ohnwL7iDSza404yQ5MrB-t8BlZnGTu2Moi7bwFRh-WB25eHwiW_qZSObS_inPq8iBDXWzoW-ZKvos7Sv-zXeRAAt8bgnoDkRcFtYR3CFcY08dEC98mpdedMisJW5keiCWu41SruElqxzDkTs9o1HLbrHEwoqG_eeFgXRJpk48KVEV-kcy5jqxvC4gFeIwJi3wylezgSOwuuD9i-Y.vTw9-24vVVz7qs-6EREy_2GBCgQ_gPSHakOGFK4-Qqs&dib_tag=se&keywords=hand%2Bcrank%2Bsolar%2Bflashlight&qid=1770240528&sprefix=hand%2Bcrank%2Bsolar%2Bflashli%2Caps%2C252&sr=8-2&th=1#averageCustomerReviewsAnchor",
+        "price": "20",
+        "category":"Emergency Kit"
+    },{
+        "imageURL": "img/espelho.jpg",
+        "name": "Espelho Refletor",
+        "link": "https://www.amazon.es/-/en/Mirror-Survival-Emergency-Star-Nautical/dp/B075F4N358/ref=sr_1_3?crid=3QV86REM45NI1&dib=eyJ2IjoiMSJ9.hXZBpVIzVo3Iw3iMrV8AaqlBqdd4Wq2VuywTt2m6IJWFuqXNJ4yl4aFr5wSc8x5xWMgTBXBX2WCkndYLOtqzILlRL8QY3Qn8IZDjSLZcB5d2hY16rDoy4YeVIdt-tPFDyBjoDRozQky7spY9Nb3k6oWTicYIjava12YIBAX1zlZWXdL88ZH151A-micetgymlWugw5RMmpIJnNGovDL7ulqHSD4O8zN7UL2ZlkqmRewBdq17mvdjAqFczJeBUu0sHDbwOtUpGyiz69Jpbuy5Z_QTzGrwl_Mt2n__63L_6-M.begT4NueSu9rvo1LNO2Vv4m75pbM62LO86sHsi0nLKU&dib_tag=se&keywords=reflective+mirror+emergency&qid=1770240707&sprefix=reflective+mirror+emergenc%2Caps%2C285&sr=8-3",
+        "price": "9",
+        "category":"Emergency Kit"
+    },{
+        "imageURL": "img/headLight.jpg",
+        "name": "2 Head Lights",
+        "link": "https://www.amazon.es/-/en/Rechargeable-Headlamp-2000lux-Waterproof-Running/dp/B07Y21GMKQ/ref=sr_1_11?crid=2RVCWMQKSU1KG&dib=eyJ2IjoiMSJ9.Iln8EZT-la4PgvrtC5J3l-gPbo7junZnUTg7MuMpfzZc9WQEgWS2wCEmyLJuLrxj6pMt9Vn1xXRbBwxm1NzBwESkjAWk6F5-A8pgImglg_ilKRNSfmtFMuHvhCVGJNbBGuRmMDQuGOsORRfj-JtJxFRGUthBQ9BFT-yE_TUhm71SFMhVScvNj5kFAkYJZrzPSgissoY9yVpjRwYBN9xS8opyCjWKO1TlbAGNugqRezA72nxUcXVt1M5QBSJO_8ZzzPLIt5vOZSJaokPWDV7HezDVOTYFqTiIBJ-OarwN5jA.CS0QeZCNu0v7TfLzsJB2FRL7fZhVxXYpqZmFotQtPpg&dib_tag=se&keywords=head%2Blight&qid=1770240791&sprefix=head%2Bli%2Caps%2C325&sr=8-11&th=1",
+        "price": "25",
+        "category":"Emergency Kit"
+    },{
+        "imageURL": "img/manta.jpg",
+        "name": "10 Manta Térmica",
+        "link": "https://www.amazon.es/-/en/Bramble-Emergency-Survival-Thermal-Blankets/dp/B01M19HAEB/ref=sr_1_6?crid=ISIP7BDJ1D5W&dib=eyJ2IjoiMSJ9.02GB7y3ofpbd-ITjnH-s7FsVou2bWyhnLXVMXgi4qc1VkZew4neIkaTb5XLlkUlHbgozbhJryOs68K01dEowawiEXr5Q1PlrYEs51ed04UxtimIJS6VFpWPTb3d8UFAPy7cSrlQiBFAXfAiOm9fF7BlsWiW5kJBN2wYR7uVNjyfAx7Om2OAq9kMP1yMzJ_IWEfpHC8y_J83DCcs_ARHIkVlKdI7we5iaFe8Sgm3ej286b5C9SszsOG1SeQX8PhBf9OTTZ3W3zJzFJO7-kjrAmro60k5gogItvHg1sjm1S0c.lMhTETCdKropewtkydOvhc5AecP8WLEJ8wIpG79JGkU&dib_tag=se&keywords=manta+t%C3%A9rmica&qid=1770240961&sprefix=manta+termi%2Caps%2C304&sr=8-6#averageCustomerReviewsAnchor",
+        "price": "18",
+        "category":"Emergency Kit"
+    },{
+        "imageURL": "img/apito.jpg",
+        "name": "2 Apito2",
+        "link": "https://www.amazon.es/-/en/Whistle-Stainless-Whistles-Referees-Officials/dp/B07QVPSSCC/ref=sr_1_6?crid=345UJ888SGMFW&dib=eyJ2IjoiMSJ9.CDn2Okv9V3PupnSHuI6QHLTSlIKIo_xs0d-p0iM0y2rFCpG2Hs-HZyeymc5BknFPQmqPstmNa9cF0qCiZHckg5_GL3L7E8izayh0cb7uIBHcJ4Esel7J1B5WTiyOosxcNNPQqnmIlU1WRaLWjZyP64EsnHpt-h4Wb5F1Hzf9YOvscYVLstpdHWw55neUIgcMZ1ZfJD8WhCAfEyGYE7wp1FcndAiifXY3djqQR-O5cxygTO428Lvr74Q6ihueNcZyGK660CUvWZZn-3TMwLDIsUt1LFjFAlHMwT_rSFAT9yk.BFwCSIMy6A6WbV0BSybO39rgcBuLTn5NCdLf4M25UVY&dib_tag=se&keywords=whistle&qid=1770241059&sprefix=whist%2Caps%2C358&sr=8-6&th=1",
+        "price": "8",
+        "category":"Emergency Kit"
+    },{
+        "imageURL": "img/apitoMao.jpg",
+        "name": "Apitos de Mão",
+        "link": "https://www.amazon.es/-/en/Squeezing-Hygienic-Teaching-Lifeguard-Emergency/dp/B0BQYCG39Q/ref=sr_1_16?crid=16W9MAN90M8SK&dib=eyJ2IjoiMSJ9.ngEdtymqMhBMSVEQXwIiQebsQwL3aW2YDWL7kHYnK60Q9IB9Q15MUlM_En-VtKvRMm5WPDBGYUFBbAe36pIgKEE0Xw6-bImexjOlb6Z0-npxx6gpEhJCeHLsKp6iVa8l-XYEV1LUTcsNFToedh7ak12YQfS5gBJYBkF2D8aSG2YExMnl15HA2vaYDriIHEh9FqfpFu3HgOmfWo7BoxRoeGgSMBfkYB9vKzwwF5xWnObRvu7vvmfULlsLRAeOushCQ6VEfexh4UeWNtDn-JycH0BeLwuSXkAg4efOo0umRYo.dh6rLtFSjfrmeN0JHOr_mAUyOYx9dYE9s7rnmUjlC_4&dib_tag=se&keywords=apito+mano&qid=1770241110&sprefix=apito+m%2Caps%2C338&sr=8-16",
+        "price": "10",
+        "category":"Emergency Kit"
+    },{
+        "imageURL": "img/luvas.jpg",
+        "name": "Luvas Proteção",
+        "link": "https://www.amazon.es/-/en/Ansell-HyFlex-Professional-Breathable-Multipurpose/dp/B09CD3LX6R/ref=sr_1_10?crid=WJH6OTYOW15H&dib=eyJ2IjoiMSJ9.RuKPCpNiaymrLkq_ly8mYxEbQg7Sfp-Ciy_OLsSFQMUNRLj80VlcoA6bmrHwhFMhCQizGxy7FOnA6jT4R-5Tbe4g_QhuoFJgVVW3SZh3FEEv4O_L6zWZWiSfhbLigihsEuzrEMQVN7vUYLbqlwszT5ekfoCSqSnebNjh-1xglUvBZ_b_LUvy2eXEJruKgpIYbJWbatRzUAFz01Dn1k6jSOXNdQWhZ1Ke7L8HXOtf1XnlFKLr5iQzjv4ip-2eeEIq1NrsIsFTOr9G3IfCu5yFx9sXGB41apAz49nXMt9RbDU.BRG7boT1pIVravyt1SywXk5jTFSt1Hx1nymNGauqNh8&dib_tag=se&keywords=protection%2Bgloves&qid=1770241265&sprefix=protection%2Bglove%2Caps%2C268&sr=8-10&th=1#averageCustomerReviewsAnchor",
+        "price": "outro",
+        "category":"Emergency Kit"
+    },{
+        "imageURL": "img/oculos.jpg",
+        "name": "Óculos Proteção",
+        "link": "https://www.leroymerlin.pt/produtos/oculos-de-protecao-ajustaveis-policarbonato-dexter-88035236.html",
+        "price": "7",
+        "category":"Emergency Kit"
+    },{
+        "imageURL": "img/mascara.jpg",
+        "name": "Máscar ABEK1P3",
+        "link": "https://www.leroymerlin.pt/produtos/mascara-de-cartucho-com-2-filtros-abek1p3-r-abs-e-carvao-ativo-dexter-88035355.html",
+        "price": "30",
+        "category":"Emergency Kit"
+    },{
+        "imageURL": "img/protecao.jpg",
+        "name": "Proteção Impermeável",
+        "link": "https://www.amazon.es/-/en/Unigear-Waterproof-Protective-Abrasion-Resistant/dp/B07Q98SN37/ref=sr_1_15?crid=2EFAV8SQDFT2I&dib=eyJ2IjoiMSJ9.X4DS5YMN-LnLm1gfySE3aqInOhQRntqEos1T6l5LJgr5iyQpPqs7gKSwjI_EOP0mM3_bZ03Y1B7cms9NfHavVrI2o_pTpxkAz2OsHyrzwoGSKEwup-fNOKVZv0hy7MAb7qPkwpyTd6JtfJTZSc36IEY7VpJikFclB9iSWCgFQIER5iS6U5UfpBBktart8jwdjzfDiuH4JGrTBZWP5bxSrk6fsQlRCsn4xb6MrdK6uqeRTNkbBtp8fouxNmI3_UpcYHVq01-kRZ1f6m9l53KgqTg6tS6pXRN_2PxE2s1hLpc.wUNnpZ3J3sKzoDKU1z9k1d_ABvgCptOP4qMUEfqeBKU&dib_tag=se&keywords=rain%2Bprotection%2Bbackpack&qid=1770242230&sprefix=rain%2Bprotection%2Bbackpa%2Caps%2C282&sr=8-15&th=1",
+        "price": "10-15",
+        "category":"Emergency Kit"
+    },{
         "imageURL": "img/empty.jpg",
-        "name": "empty",
+        "name": "Tapete Anti Fogo",
+        "link": "https://www.amazon.es/-/en/wucgea-Fire-Blanket-Emergency-Fiber/dp/B0CBKBSJLL/ref=sr_1_7?crid=2U5GPWGZGBCTI&dib=eyJ2IjoiMSJ9.j5JZR7kZKbf0h5-ZW3zjf1qdcqXO_4kQltq2J9IDEdyjcQh4EBmcUDAEAuJ9W-Pek2_RVfpANHKIY6tjx1IIPGCYtZNVE_MKRy-1HkTTtYRCSRlJ4QUXB_BTQ4qbEYuPzLdM9vYuSbqyG3AqJbulwSwmg5LLi-MdOTvRsjLKyB5sAr8j1koL251tp3F0_OC-6W3eYfJJf24cA2S9iGduTgNQDy_o3t-5sGRhCOtUbe8RoKTaOimOTavkWJbC_3w_ZRwQcYyTDs0koWmYKypd_yDPW7lJmQ7HtFOZjCLpJhk.rLQtxMC9c3hCTYFSyZ8PkOQTRJ-ixmK4PVYGU1RgdPQ&dib_tag=se&keywords=fire%2Bblanket&qid=1770242316&sprefix=fire%2Bblanke%2Caps%2C261&sr=8-7&th=1",
+        "price": "10",
+        "category":"Emergency Kit"
+    },{
+        "imageURL": "img/empty.jpg",
+        "name": "Extintor Pequeno",
         "link": "empty",
         "price": "empty",
-        "category":"-"
+        "category":"Emergency Kit"
+    },{
+        "imageURL": "img/powerbank.jpg",
+        "name": "Powerbank Solar",
+        "link": "https://www.amazon.es/-/en/ADDTOP-25000mAh-Portable-Waterproof-Smartphones/dp/B07GB4H8FB/ref=sr_1_24?crid=1OEWID23R0XO&dib=eyJ2IjoiMSJ9.VGY4nqXGGOZMKYR0ZGSN3OUnCoVPthk0HCok112PgfcoBw-OKZAXETT3pi8vIwNvO3wlwuJ9bq51zAPB9OuKnNq-ntN4K14Xzmga1hbY5K5GzMSjd2ePFVdEIslBkHI-RUhgcRrt_Q9c12YbxaQSqOxPFeRUIryGTTPYIo_thMVdCR5yjCs26regajpvC7DeqCGZcyS0F02D0zsqc2q1xule1Gd6D8eD7UyfwEqmFdL-njBa5HFlIuFZLruhh3Vw1IRmpm0P5SjbcNkmydNv9YKjPkwD4zOmJEMJD24mOyc.oErbnITRFdXuZck72k33gpx463AjfHR3s3-1ui9QgHY&dib_tag=se&keywords=power+bank+solar&qid=1770242452&sprefix=power+bank+sol%2Caps%2C271&sr=8-24",
+        "price": "40",
+        "category":"Emergency Kit"
     }
 ]
