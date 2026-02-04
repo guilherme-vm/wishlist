@@ -252,14 +252,13 @@ a:hover {
         border: 2px solid #AC3806;
 }
 
-    
-}
-
-
-@media screen and (max-width: 599px) {
-    .categoryButtons{
+     .categoryButtons{
             display: flex;
     overflow-x: scroll;
     padding-left: 20px;
     }
+
+    
 }
+
+
